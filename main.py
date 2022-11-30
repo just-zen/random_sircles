@@ -1,7 +1,6 @@
 import random
 import sys
 
-from UI import Ui_Form
 from PyQt5.QtGui import QPainter, QColor
 from PyQt5.QtWidgets import QWidget, QApplication
 from PyQt5 import QtCore, QtGui, QtWidgets
